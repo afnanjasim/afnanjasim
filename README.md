@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Data engineering**
 
-- 📫 How to reach me **afnannjaism@gmail.com**
+- 📫 How to reach me **afnannjasim@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
